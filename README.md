@@ -1,6 +1,6 @@
 # LerneMitML
 
-## Introduction of this file:
+## Introduction of this model:
 
 Just a quick start, me and Fred, one of my best friend in GW, planed to build an AI, specifically can be used to provide math tutorials for college students. For classes like introduction in statistics, calculus, differential equations and so on. We do have several goals here: 
 - Provide the most accurate
